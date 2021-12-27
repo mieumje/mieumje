@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ---
 ![mieumje's github stats](https://github-readme-stats.vercel.app/api?username=mieumje&show_icons=true)
 [![mieumje's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mieumje&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/mieumje)
+---
+<a href="[https://mieumje.tistory.com/]" target="_blank"><img src="https://img.shields.io/badge/[Blog]-[FFCD00]?style=flat-square&logo=[Blog]&logoColor=white"/></a>
