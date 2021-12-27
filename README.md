@@ -1,4 +1,4 @@
-### Hi there 👋
+### Es muss sein 🔷
 
 <!--
 **mieumje/mieumje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![trophy](https://github-profile-trophy.vercel.app/?username=mieumje)
 ---
 ![mieumje's github stats](https://github-readme-stats.vercel.app/api?username=mieumje&show_icons=true)
 [![mieumje's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mieumje&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/mieumje)
