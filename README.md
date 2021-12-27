@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![mieumje's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mieumje&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/mieumje)
 ---
 ### Blog
-<a href="[https://mieumje.tistory.com/]" target="_blank"><img src="https://img.shields.io/badge/[Kakao]-[#FFCD00]?style=flat-square&logo=[Kakao]&logoColor=white"/></a>
+<a href="https://mieumje.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a>
